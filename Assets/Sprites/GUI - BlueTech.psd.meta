@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 22ccfc5baff1fe544a00b47f3b61e7d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3004108888087888108
+    second: GUI - BlueTech_0
+  - first:
+      213: 6306277961873391319
+    second: GUI - BlueTech_1
+  - first:
+      213: -2900293377561311809
+    second: GUI - BlueTech_2
+  - first:
+      213: -3759215278449239617
+    second: GUI - BlueTech_3
+  - first:
+      213: -4535404257652480982
+    second: GUI - BlueTech_4
+  - first:
+      213: -739228936277274063
+    second: GUI - BlueTech_5
+  - first:
+      213: -8311034698734686145
+    second: GUI - BlueTech_6
+  - first:
+      213: -2708596424604214508
+    second: GUI - BlueTech_7
+  - first:
+      213: -6876477458333823800
+    second: GUI - BlueTech_8
+  - first:
+      213: 5007007858845547292
+    second: GUI - BlueTech_9
+  - first:
+      213: 7245137074306629930
+    second: GUI - BlueTech_10
+  - first:
+      213: 3391554962018539775
+    second: GUI - BlueTech_11
+  - first:
+      213: -3500370447218881553
+    second: GUI - BlueTech_12
+  - first:
+      213: -7196912686981449409
+    second: GUI - BlueTech_13
+  - first:
+      213: -8679555525586605913
+    second: GUI - BlueTech_14
+  - first:
+      213: -5298599566850965541
+    second: GUI - BlueTech_15
+  - first:
+      213: -2631097244895120340
+    second: GUI - BlueTech_16
+  - first:
+      213: 6171471639073501625
+    second: GUI - BlueTech_17
+  - first:
+      213: 1550852079669905312
+    second: GUI - BlueTech_18
+  - first:
+      213: -1240504329022539871
+    second: GUI - BlueTech_19
+  - first:
+      213: -4841759070821464295
+    second: GUI - BlueTech_20
+  - first:
+      213: 2863870767628144359
+    second: GUI - BlueTech_21
+  - first:
+      213: 8763180180064205228
+    second: GUI - BlueTech_22
+  - first:
+      213: 682599275092456707
+    second: GUI - BlueTech_23
+  - first:
+      213: -6892588860141661535
+    second: GUI - BlueTech_24
+  - first:
+      213: -889207926072415900
+    second: GUI - BlueTech_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUI - BlueTech_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2170
+        width: 1116
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f7deaf1e24f46d0800000000000000
+      internalID: -3004108888087888108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_1
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1090
+        width: 1460
+        height: 1603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de765ce466648750800000000000000
+      internalID: 6306277961873391319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_2
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 2303
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb54a0e1a8610c7d0800000000000000
+      internalID: -2900293377561311809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_3
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2303
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9dfc51f9594dbc0800000000000000
+      internalID: -3759215278449239617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_4
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 2303
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2464d57bd10f01c0800000000000000
+      internalID: -4535404257652480982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_5
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 2303
+        width: 257
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d085f23bbdb5f0800000000000000
+      internalID: -739228936277274063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_6
+      rect:
+        serializedVersion: 2
+        x: 4770
+        y: 2303
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3039f9a9f549ac80800000000000000
+      internalID: -8311034698734686145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_7
+      rect:
+        serializedVersion: 2
+        x: 5095
+        y: 2303
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b929f07e1296ad0800000000000000
+      internalID: -2708596424604214508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_8
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 2303
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc080e4f28d190a0800000000000000
+      internalID: -6876477458333823800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1652
+        width: 1116
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bf31e8e177c7540800000000000000
+      internalID: 5007007858845547292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_10
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 1898
+        width: 1013
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a214f0f58c5eb8460800000000000000
+      internalID: 7245137074306629930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_11
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 1899
+        width: 1014
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8145bc449311f20800000000000000
+      internalID: 3391554962018539775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_12
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 1495
+        width: 1014
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4e3fbf9f2c6fc0800000000000000
+      internalID: -3500370447218881553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_13
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 1495
+        width: 1014
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f7f4ca0e6f1c90800000000000000
+      internalID: -7196912686981449409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1133
+        width: 1116
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a1295c360c8780800000000000000
+      internalID: -8679555525586605913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_15
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1133
+        width: 2216
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf3fc264c79776b0800000000000000
+      internalID: -5298599566850965541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 628
+        width: 919
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c247484fef67c7bd0800000000000000
+      internalID: -2631097244895120340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_17
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 628
+        width: 918
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1bf5402c875a550800000000000000
+      internalID: 6171471639073501625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_18
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 628
+        width: 918
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a786ebefbbb58510800000000000000
+      internalID: 1550852079669905312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_19
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 628
+        width: 918
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f64e92e7d8cee0800000000000000
+      internalID: -1240504329022539871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_20
+      rect:
+        serializedVersion: 2
+        x: 4759
+        y: 628
+        width: 919
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91749af17cd9eccb0800000000000000
+      internalID: -4841759070821464295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 234
+        width: 918
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec91b2a438eb720800000000000000
+      internalID: 2863870767628144359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_22
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 234
+        width: 918
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97877c1f11d9970800000000000000
+      internalID: 8763180180064205228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_23
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 234
+        width: 918
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30533d39c64197900800000000000000
+      internalID: 682599275092456707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_24
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 234
+        width: 918
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2117043fa9850a0800000000000000
+      internalID: -6892588860141661535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI - BlueTech_25
+      rect:
+        serializedVersion: 2
+        x: 4759
+        y: 234
+        width: 918
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469edfa3a16e8a3f0800000000000000
+      internalID: -889207926072415900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: decf6a72a037fb34b9d10cc5146f0d75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
